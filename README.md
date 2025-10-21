@@ -3,7 +3,7 @@ JWT-Based Authentication and Authorization
 
 # 🔐 JWT-Based Authentication & Authorization using Node.js and MongoDB
 
-This project implements **secure user authentication and role-based authorization** using **JSON Web Tokens (JWT)** in **Node.js and **MongoDB**.  
+This project implements **secure user authentication and role-based authorization** using **JSON Web Tokens (JWT)** in Node.js and MongoDB.  
 It allows users to register, log in, and access protected routes with different permissions based on their roles (user/admin/owner).
 
 ---
