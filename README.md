@@ -162,9 +162,3 @@ If a non-admin tries to access this route:
 This project is licensed under the MIT License — you can freely use, modify, and distribute it.
 
 MIT License
-
-Copyright (c) 2025 Harish
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
